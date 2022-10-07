@@ -18,7 +18,7 @@ class demo
    demo(int x)
    {
      a=x;
-     cout<<"This is default constructor "<<endl;
+     cout<<"This is Parametrized constructor "<<endl;
      cout<<"Value of a is :- "<<a<<endl;
    }
    demo(demo & x)
